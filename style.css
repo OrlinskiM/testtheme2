@@ -1,10 +1,10 @@
 /**
  * Theme Name:       testtheme2
- * Version:          1.0.1
+ * Version:          1.0.2
  * GitHub Theme URI: https://github.com/OrlinskiM/testtheme2
  */
 
 
 h1 {
-    text-align: left !important;
+    text-align: right !important;
 }
